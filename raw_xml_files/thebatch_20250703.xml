@@ -1,0 +1,450 @@
+<thebatch>
+<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" lang="en"><head>
+    <title>Amazon’s $100 Billion Bet, Meta’s Sensor-Packed Glasses, Anthropic’s Reason-Free Reasoning, Google’s Extreme Weather Prediction</title>
+    <meta property="og:title" content="Amazon’s $100 Billion Bet, Meta’s Sensor-Packed Glasses, Anthropic’s Reason-Free Reasoning, Google’s Extreme Weather Prediction">
+    <meta name="twitter:title" content="Amazon’s $100 Billion Bet, Meta’s Sensor-Packed Glasses, Anthropic’s Reason-Free Reasoning, Google’s Extreme Weather Prediction">
+    
+    
+    
+<meta name="x-apple-disable-message-reformatting">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--[if gte mso 9]>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    <w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word">
+      <w:DontUseAdvancedTypographyReadingMail/>
+    </w:WordDocument>
+  </xml>
+  
+  <style>
+    ul > li {
+      text-indent: -1em;
+    }
+  </style>
+<![endif]-->
+<!--[if mso]>
+<style type="text/css">
+ body, td {font-family: Arial, Helvetica, sans-serif;}
+ .hse-body-wrapper-table {background-color: #ffffff;}
+</style>
+<![endif]-->
+<!--[if mso | IE]>
+  <style type="text/css">
+    .hse-column-container { border: none !important; padding: 0 !important; }
+  </style>
+<![endif]-->
+    
+      
+  
+  
+    
+  <meta name="generator" content="HubSpot"><meta property="og:url" content="https://info.deeplearning.ai/amazons-100-billion-bet-metas-sensor-packed-glasses-anthropics-reason-free-reasoning-googles-extreme-weather-prediction-1"><meta name="robots" content="noindex,follow"><!--[if !((mso)|(IE))]><!-- --><style type="text/css">@media only screen and (max-width:639px){img.stretch-on-mobile,.hs_rss_email_entries_table img,.hs-stretch-cta .hs-cta-img{height:auto !important;width:100% !important}
+.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px !important;padding-right:20px !important}
+.hs-hm,table.hs-hm{display:none}.hs-hd{display:block !important}table.hs-hd{display:table !important}
+}@media only screen and (max-width:639px){.hse-border-m{border-left:1px solid #ccc !important;border-right:1px solid #ccc !important;box-sizing:border-box}
+.hse-border-bottom-m{border-bottom:1px solid #ccc !important}.hse-border-top-m{border-top:1px solid #ccc !important}
+.hse-border-top-hm{border-top:none !important}.hse-border-bottom-hm{border-bottom:none !important}
+}.moz-text-html .hse-column-container{max-width:600px !important;width:600px !important}
+.moz-text-html .hse-column{display:table-cell;vertical-align:top}.moz-text-html .hse-section .hse-size-12{max-width:600px !important;width:600px !important}
+@media only screen and (min-width:640px){.hse-column-container{max-width:600px !important;width:600px !important}
+.hse-column{display:table-cell;vertical-align:top}.hse-section .hse-size-12{max-width:600px !important;width:600px !important}
+}@media only screen and (max-width:639px){.hse-body-wrapper-td{padding-top:20px !important}
+#section_1706730515171 .hse-column-container{background-color:transparent !important}
+#section_1706730515171 .hse-column-container{background-color:transparent !important}
+}</style><!--<![endif]--><style type="text/css">#hs_body #hs_cos_wrapper_main a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !important;font-size:inherit !important;font-family:inherit !important;font-weight:inherit !important;line-height:inherit !important}
+a{text-decoration:underline}p{margin:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;moz-osx-font-smoothing:grayscale}
+table{border-spacing:0;mso-table-lspace:0;mso-table-rspace:0}table,td{border-collapse:collapse}
+img{-ms-interpolation-mode:bicubic}p,a,li,td,blockquote{mso-line-height-rule:exactly}</style></head>
+  <body id="hs_body" bgcolor="#ffffff" style="margin:0 !important; padding:0 !important; font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word">
+    <div id="preview_text" style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" lang="en">I’d like to share a tip for getting more practice building with AI — that is, either using AI building blocks to build applications or using AI coding assistance to create powerful applications quickly.</div>
+    
+<!--[if gte mso 9]>
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+    <v:fill type="tile" size="100%,100%" color="#ffffff"/>
+</v:background>
+<![endif]-->
+    <div class="hse-body-background" lang="en" style="background-color:#ffffff" bgcolor="#ffffff">
+      <table role="presentation" class="hse-body-wrapper-table hse-full-width-template" cellpadding="0" cellspacing="0" style="margin:0; padding:0; width:100% !important; min-width:320px !important; height:100% !important" width="100%" height="100%">
+        <tbody><tr>
+          <td class="hse-body-wrapper-td" valign="top" style="font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word; padding-top:20px">
+            <div id="hs_cos_wrapper_main" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_email_flex_area" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="email_flex_area">  <div id="section_1706730515171" class="hse-section hse-section-first" style="padding-left:10px; padding-right:10px">
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto">
+    
+    <!--[if (mso)|(IE)]>
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column_1706730515171_0" class="hse-column hse-size-12">
+  <div id="hs_cos_wrapper_module_17067305151702" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div style="overflow:hidden">
+  <table role="presentation" class="hse-pre-header hse-secondary" width="100%" cellpadding="0" cellspacing="0" style="text-align:right; font-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496d; margin-bottom:0; padding:0" align="right">
+    <tbody>
+      <tr>
+        <td align="right" valign="top" style="color:#3b3b3b; word-break:break-word; text-align:right; font-family:Arial, sans-serif; font-size:12px; padding:10px 0; margin-bottom:0; line-height:135%">
+          <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZBC7mmznW50l5tj6lZ3mFW4Q8Y6s1VxCmhW7m2znH3DJQRJW4rB1md6zc99XW8v8c5F6Yvgp0W6H7Lpw9bF_pHW4S_cZ36xNs9zW8kLyHZ96HQGfW1SZsRX67sFmRW6rjvPv7G1-19W61ccxF2kBcVqW9jV1776mBJHtW68pG583sZfrgW2j36FT20p0dVW1Zs4GP46NV7mW8ChHP513jLDqW4FQ1rN31rgRSW1GqlpL4mnbchW6_wdCk19SrdcW6ny6Dq8BvWDGW2xNlp25LMm8wW5Zq7_S2P8pB4W1XQGqH3m1ZLjW6Jq6vY2Bd1yGW37X6Tw4YvLYSW9jNN2M8Sd79nW6G5b3c1HX85JW7GBQN36mh8y3Vbz3BQ4NZ6kNW28XSsV30FbQMVf1nX58Zf2JXW2hyrw29g0mygW5h342L71ckgsW3Y_Bsw8v3mjpV1qGV3478MXJW9lGbrN8RM0GnW40rnSB3CyJpwW2JZdgn5fnQBlW2rBB_s8jK9GKW6vD8kH6xc8BYW6f-l_p9lNxb9W2Cb28L81sMPsW9kbfWx3dSzDpV1P0XV3TDk5vVYX8Pp91nWKKW777pWL4Z1jyjW26zrsT23lhCPW4R55kB8mV5spW5g0cFs6v8dssf1hZC6H04" style="color:#237B94; font-weight:normal; text-decoration:underline; font-style:normal" data-hs-link-id="0" data-hs-link-id-v2="PSxeRhXP" target="_blank">View in browser</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+   
+  </div>
+  <div id="section_0" class="hse-section" style="padding-left:10px; padding-right:10px; background-color:#ffffff" bgcolor="#ffffff">
+    
+      
+      <!--[if gte mso 9]><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="width:100%" bgcolor="#ffffff"><tbody><tr><td valign="top"><![endif]-->
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto; padding-bottom:10px; padding-top:10px">
+    
+    <!--[if (mso)|(IE)]>
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;padding-bottom:10px; padding-top:10px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column_0_0" class="hse-column hse-size-12">
+  <div id="hs_cos_wrapper_hs_email_body_old" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; word-break:break-word; text-align:center; padding:0px; font-size:0px">
+        <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCP3qgz0W7lCdLW6lZ3pxW4k3-hm3K-BqqVbJ-246X5YnLW8PtWp51TQw_5W2RW1j453YGWPW7WC4cL5kQRQrW5-1bWH4vMGF5W46BR8r4xHSGGN5y9ksf6BY1WW6D20kg2_m8hKV1mLcL1KMlZYVFwdkK5PYwyCW1MKJwy6g2y7WVLwTm76zN0CSW3Cgs0y4bD0x2W93gqbZ13WxyTN33wtxK11NPPW7L6fXW8LSDgRW72mNTX676l6TW1XSQdF37qv9hW5ZfZJj67fRDzW2b1FpL63TzLVW3Yp1cz73PWmvV9DFJb88kGBdN1-d_4SP-lpvf2cWWyY04" target="_blank" style="color:#00a4bd" data-hs-link-id="0" data-hs-link-id-v2="hgAQx2nE">
+        <img alt="The Batch top banner - July 1, 2025" src="https://info.deeplearning.ai/hs-fs/hubfs/The%20Batch%20top%20banners%20(43).png?width=1200&amp;upscale=true&amp;name=The%20Batch%20top%20banners%20(43).png" style="outline:none; text-decoration:none; border:none; max-width:100%; font-size:16px" width="600" align="middle" class="stretch-on-mobile">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+<div id="hs_cos_wrapper_hs_email_body_old1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old1_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div style="mso-line-height-rule:exactly; line-height:125%; text-align:center" align="center"><span style="font-size: 15px; font-family: Helvetica, sans-serif;"><a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCv3lYM-W6N1vHY6lZ3m4W12MZJ46GcdZcW2PNyxG8DX2MsW25D2Wz1px0F-W3pSC944RcH--W4KqsCS66ngh-W8Clx6F40g3GqN62bJ7WGw8JxM7XGQqNt7NJW6zPfPJ17tTP_W2k1pBy98xYz9W8n1_-2236wCNW1V3n4L7wkvlNN1xhwQYY9cMSN254Hn44tc0PW6VzWcb77dh2WW4Fbd0Y6sJgJrW9dFP2-2Qxs83N40GdNHzF9sWW9kXg5W2c0j2HW4J5Dxx4RNHMNW1KsSgz6rPKyVVvyKb31z3LFNf3m7pNT04" target="_blank" style="font-size:15px; font-style:initial; color:#f53b0d; text-decoration:underline" rel="noopener" data-hs-link-id="0" data-hs-link-id-v2="Y5q3J6B/">Subscribe</a> &nbsp;&nbsp;<a href="mailto:thebatch@deeplearning.ai?subject=RE%3A%20Tips%20and%20News" target="_blank" style="font-size:15px; font-style:initial; color:#f53b0d; text-decoration:underline" rel="noopener" data-hs-link-id="0" data-hs-link-id-v2="dpgz9vS1">Submit a tip</a></span></div>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;">Dear friends,</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;">I’d like to share a tip for getting more practice building with AI — that is, either using AI building blocks to build applications or using AI coding assistance to create powerful applications quickly: If you find yourself with only limited time to build, reduce the scope of your project until you can build something in whatever time you do have. </span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;">If you have only an hour, find a small component of an idea that you're excited about that you can build in an hour. With modern coding assistants like Anthropic’s Claude Code (my favorite dev tool right now), you might be surprised at how much you can do even in short periods of time! This gets you going, and you can always continue the project later.</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;"><br>To become good at <a  href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDH3qgz0W95jsWP6lZ3lrVn85jc2HB029W86gq4h6KgWzVN4Dr1ZlX8_yyW4H6gDK3L7Mq5W1_YNhM7LSf6_W98W7M36SYjwCW7wrpRY3C4CCpN7vbSs37xDkyW5PQ7CW7gclr3W16s-Y_2ZTvCFW777k0x7fVh6tW1cHRp66DJL5hW7z_jQM2Q0XVNW8vLk8_7NK6hlW7vCtbZ6yM3S8W9kJ7KC2zq-KJW2wgqSz3DSjpsW8n--cl9gWMYhW2ckj-m2FBDnTW3Blg8L7LYJ07W1g1MPV399JNvW5CrsVY280LxSW2gWwqW4Q_-2PN2dq9Q0WGmpsW6PgQyq8MXFXdW6T0LHh6qKd_VW5nDGGf5F2zZhW6dXlLv8Y6sfNW2mNj4g6R1KH-Vny92V45kfBVdlCY_P04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="eZUMCHAa" target="_blank">building with AI</a>, most people must (i) learn relevant techniques, for example by taking online AI courses, and (ii) practice building. I know developers who noodle on ideas for months without actually building anything — I’ve done this too! — because we feel we don’t have time to get started. If you find yourself in this position, I encourage you to keep cutting the initial project scope until you identify a small component you can build right away.</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;"><br>Let me illustrate with an example — one of my many small, fun weekend projects that might never go anywhere, but that I’m glad I did. </span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;">Here’s the idea: Many people fear public speaking. And public speaking is challenging to practice, because it's hard to organize an audience. So&nbsp;I thought it would be interesting to build an audience simulator to provide a digital audience of dozens to hundreds of virtual people on a computer monitor&nbsp;and let a user practice by speaking to them.&nbsp;<br></span></p></div></div>
+<div id="hs_cos_wrapper_hs_email_body_old2" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; word-break:break-word; text-align:center; padding:10px 0px; font-size:0px">
+        <img alt="Three-screen demo of audience simulator showing engagement levels from bored to highly engaged using animated facial expressions." src="https://info.deeplearning.ai/hs-fs/hubfs/2025.07.02%20LETTER.png?width=1200&amp;upscale=true&amp;name=2025.07.02%20LETTER.png" style="outline:none; text-decoration:none; max-width:100%; font-size:16px" width="600" align="middle" class="stretch-on-mobile">
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+<div id="hs_cos_wrapper_hs_email_body_old3" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old3_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;">One Saturday afternoon, I found myself in a coffee shop with a couple of hours to spare and decided to give the audience simulator a shot. My familiarity with graphics coding is limited, so instead of building a complex simulator of a large audience and writing AI software to simulate appropriate audience responses, I decided to cut scope significantly to (a) simulating an audience of one person (which I could replicate later to simulate N persons), (b) omitting AI and letting a human operator manually select the reaction of the simulated audience (similar to <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD43qgz0W7Y8-PT6lZ3m-W8LTcHm7YqsdnW9cBv-D4JdsFhVV3ZQ78Tbpp5W8yHx231d-CXTW6sj27Y6Nj2v2W3xDw2-243b3-W4F_Pn47-PP0-W7K60p_5s34RQW1KRr244P2DkvN8J1ZjsWVDm4V5dwwT4cd0G7W3cDrcV6yfvs_W4yqL3x4tWGjfW5XkYFT87lK6tVl04PN8M6HH2W3ZP9Zn4_l67DW3T_HKN8CW2J6W6KCc3R6mW6n7VPzF0R3TDz5nW4QfcJW1HhFsJVRmw8k8H_47cW8DtQxV5SxhmPW5YZLRq2ZTdHCW1CM_F64DM46fW2MX6sg4CGlwNW2fmjsN68X5mDf4qxWqx04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="VShk+ABB" target="_blank">Wizard of Oz prototyping</a>), and (c) implementing the graphics using a simple 2D <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCv3qgz0W6N1vHY6lZ3mxW4z-DM-3J3zjGW1wztHS3RhQypVDvCZ723n5CcW5K2PZG5NggkFW3VZW-r7V2QV_W2z6f5f7B8PSDW6rTp6M4FqZLqW4qd-hp5m18F8W71ttnV1qrZThW8fpCLf3fg8BKW1mQHsT6wVgDjW8K5XK59j2n0GW5zqzh34kmP2_W37qHd42wRX6tW23qKhn5mR6lfW3X8yHS3kJC5wW3ZxFxQ8db9d8W7TWmFW4zsdB5W8h2zkv4nFzkCW7fCQQ69fpdj_W52njCg69jV3sW84wXn27VTPWzf2WdWnM04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="fE+rf/i5" target="_blank">avatar</a>.&nbsp;</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;">Using a mix of several coding assistants, I built a basic version in the time I had. The avatar could move subtly and blink, but otherwise it used basic graphics. Even though it fell far short of a sophisticated audience simulator, I am glad I built this. In addition to moving the project forward and letting me explore different designs, it advanced my knowledge of basic graphics. Further, having this crude prototype to show friends helped me get user feedback that shaped my views on the product idea.&nbsp;</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;"><br>I have on my laptop a list of ideas of things that I think would be interesting to build. Most of them would take much longer than the handful of hours I might have to try something on a given day, but by cutting their scope, I can get going, and the initial progress on a project helps me decide if it’s worth further investment. As a bonus, hacking on a wide variety of applications helps me practice a wide range of skills. But most importantly, this gets an idea out of my head and potentially in front of prospective users for feedback that lets the project <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDH3qgz0W95jsWP6lZ3pDN4r9Z_6Yd1d8W6D9qwd32H8-fW3Y3TsK7FYrwcW4lvK5T7JvPGhW2bzd2L3K_xHnW408Y9t6DRfkPW9jhMCL7D-LXGW1pWtTS1xDYL-W4XPNsl826Gp2W39xzLW215hF6VqJNz76ftmcsW8t9Xcb5dRMWKW7N7XCG7VnQtcW18JZNc75nW0WVxkjhr7t99bHVs1wH864CCcbVlFZ071yFVVLN7pm-KwQ66X_W2CKdmz6rD-BrW4Nxd4_2KgnXbW7ZCF9244q910W36trC53CPXgHW7lhdsJ5Qf4KqW8hWzyw1GyCvBW7JsTjT8GkkBvW8nQyzj5Qqx1SW5SfPzW6S5NgVN6b7XKzFkL-JW7tdMVR7CGhvjW4NVpPC9l55FLf8cwNHR04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="8FOPNspE" target="_blank">move faster</a>.</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;">Keep learning!</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Georgia, serif;">Andrew&nbsp;</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; font-size:18px; line-height:1.5">&nbsp;</p></div></div>
+<div id="hs_cos_wrapper_module_16890053646291" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module_16890053646291_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2 style="margin:0; mso-line-height-rule:exactly; font-size:21px; line-height:150%"><span style="color: #000000;">A MESSAGE FROM</span> <span style="color: #000000;"><a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCv3qgz0W6N1vHY6lZ3pBW3PL4wC3LCSVxW1HkZS_4dm5r3W7vJsL57JXfkMW5rnwTq6MnrW0VXpVny2RLC8MW1xj2Sg4Q_LW0W7FX6lK6VJDyrW78_lsm1Hfzg7W8b_1VK9ccbWgW4WC2RL4SjsP1W6vMmRg7T6B8_W4DJRPx4q-D2JW2ztXVq6BzcYXW1FB_jG659RNBW9gl3Mt5bpwmTW75zt_r6FrBjsW1HjQtf7q6jH4W6vjwM73rT_qlVxZXh98883LqW7wDydn1d1XysMwJLR44ClwpW8Kxt_65dL-9-f3ycRwK04" style="font-weight:bold; text-decoration:none; color:#000000" rel="noopener" data-hs-link-id="0" data-hs-link-id-v2="5QsDfwQ9" target="_blank">DEEPLEARNING.AI</a></span></h2></div></div>
+<div id="hs_cos_wrapper_module_16848647586863" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; word-break:break-word; text-align:center; padding:5px 0px 10px; font-size:0px">
+        <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD43qgz0W7Y8-PT6lZ3ppW4NXYT62J3g6nW3DZtXN8dJMpPW3YpcnG5WTB1VW1Jf_cH3WW5vPW3hwvsM1lVcCfW2nBfvs77Zv84W2p_rFH3Pblr8W778Z4T6SxRBSW8r2HMX2_TDnqW1B-8g53bzZshW3RcCCd32NCRfW8jpjB-2VzM7fW6CwbLT35tLkFW33Gmsv3KTHvlW5xFjC-8Gg1y-W4vX0FT4-XjPMW8_Cc4t4vB90gW2RzJq34BHsRnVg_D5r3zRmx7N4hJXCWBCr1FVV1T8N8JffC5W6lfsdF5g7SfpW1qYv8k3H9fqJW1T9xHx6RW3l3W92ZJKg2ZrpTwW8xf19z5fsvXXf67-rXz04" target="_blank" style="color:#00a4bd" data-hs-link-id="0" data-hs-link-id-v2="p62JblnY">
+        <img alt="Promo banner for: &quot;Data Analytics Professional Certificate&quot;" src="https://info.deeplearning.ai/hs-fs/hubfs/The%20Batch%20ads%20and%20exclusive%20banners%20-%202025-03-19T094226.689.png?width=1200&amp;upscale=true&amp;name=The%20Batch%20ads%20and%20exclusive%20banners%20-%202025-03-19T094226.689.png" style="outline:none; text-decoration:none; border:none; max-width:100%; font-size:16px" width="600" align="middle" class="stretch-on-mobile">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+<div id="hs_cos_wrapper_hs_email_body_old19" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old19_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="mso-line-height-rule:exactly; line-height:150%">The Data Analytics Professional Certificate is now fully available! Build job-ready skills in statistics, SQL, and Python supported by generative AI workflows. Learn how to communicate your insights clearly through effective data storytelling, an essential skill for any data analysis. <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD43qgz0W7Y8-PT6lZ3mfW7LxS3222h_CqN30Rgzl8T-SGVn6z8-3Rh5ngN1SBwBLLFgdgW7FXtVT8qh1RBW3Y3xmt6yFzl8W1Txmzf8HK4ttN5rHC0q-56gTW8b36Ty5bSDDgW2kWrBR2df3h-W6fgyxX7XPwwCN4X15HKy8HvdW7S7VGq727_tfW4kQSN07Mhh8XW6TVRrw3WPMBcW80Bx2S9lG9W0W86bPMQ1FLNyvN3zB9_gqggXnW1pN8fX5bk5lNN773M0GX9r9hW3KZXbS875B55W1DzNcT8XnH-bW9520W26Hl_0MN7llsh8z0GJGW4_GB1c3htqKyN8yD-CMfkWp4f1l-1bC04" rel="noopener" style="color:#237b94" data-hs-link-id="1" data-hs-link-id-v2="Ety2n+H0" target="_blank">Enroll today and level up your career!</a></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p></div></div>
+<div id="hs_cos_wrapper_hs_email_body_old7" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old7_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="margin:0; mso-line-height-rule:exactly; font-family:Helvetica, Arial, sans-serif; font-size:32px; line-height:125%">News</h1></div></div>
+<div id="hs_cos_wrapper_module_16195246841011" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; word-break:break-word; text-align:center; padding:5px 0px 10px; font-size:0px">
+        <img alt="Amazon data center at night for Project Rainier, part of its $100B AI infrastructure expansion to support Anthropic and Trainium chips." src="https://info.deeplearning.ai/hs-fs/hubfs/RAINIER.jpeg?width=1200&amp;upscale=true&amp;name=RAINIER.jpeg" style="outline:none; text-decoration:none; max-width:100%; font-size:16px" width="600" align="middle" class="stretch-on-mobile">
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+<div id="hs_cos_wrapper_hs_email_body_old12" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old12_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="margin:0; mso-line-height-rule:exactly; font-family:Helvetica, Arial, sans-serif; line-height:125%; font-size:32px; font-weight:bold">Amazon’s Constellation&nbsp;of Compute</h1>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">Amazon revealed new details of its plan to build a constellation of massive data centers and connect them into an “ultracluster.” Customer Number One: Anthropic.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">What’s new:</span> Dubbed Project Rainier, the plan calls for Amazon to <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDH3qgz0W95jsWP6lZ3p3W5Zrhyx7RGySHW5-vW2v4fYDpWW8SlSq61rnSq3W463SJ-8Q9-ChW3rZvmT69wbsDW4dRp1V6w5HcWW90FVWT1hzZKgVTLc838tglDjW8mHmSN2-NfdXW5dJYXh1p9xmJW2rFcny3hGvSzW61t_DK2gv9DFW5wrZGV1tqbLBW4xZ_P_70c71_VtcVvg54xtSMW1vGcDd8qNmz4W3mMBTg1xyLyNW1P_n1f32w-dzW8t6dMy2-9T8hW29jM1x2g9ZSsW5b7Wf01JB0swW2rLxDv5CBK_JW6wklBd32pXBXN6NQWtGHjxJ-W5dTWhl25m3HRW2pZx_G28pPzSW78Mmgy3mhdr3Vfj6Kw7mpnLkW2n5BYt9g-mCWN5sV2dHDSV0zf7NSWCs04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="m/b+zM2V" target="_blank">build</a>&nbsp;seven next-generation data centers — with up to 30 on the drawing board — near New Carlisle, Indiana, <span style="font-style: italic;">The New York Times</span> reported. Still other data centers&nbsp;will be located in Mississippi, and possibly in North Carolina and Pennsylvania, contributing to an expected <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZBC5nR3bW50kH_H6lZ3lXW1r45hr6QbMs4W6bYkqs42FVQvW1RkC909dS4PQW4LCM7P1JJwrxW5NM2Xm4jP0STW7qHlxK8h0PkGW7-XnKm6TpMb9W5xh3BK1LHytXMJH7HJB09sBN80ZJWSfNw8rN6XZ9MjbHStmW7TxqXV4h-BfQW1PYkN5917qydW1sHzWq5GpV3cN8ZckDS1fthWW84S56X2bsjx7VcykL36TBkymV7wD8l7H2LXcN7NsDxl2tXr5W4S-bzC1NrRzXW50ngFF4Wlt5JW422GYZ1Df4gtW5LGvnn1ryr0qW4JjJh58J82g-W75CGW31nBgsCW71DPZ33pmZFfW7bbhBQ2SN5bLVHtH5T2H3vv7W2FdrwV7wKj-nW44-SWx9bmDj3W2y902s672mnpW9b-Hj619gzJJf8BhkK004" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="62Z8MvCF" target="_blank">$100 billion</a> in capital expenditures this year alone. These&nbsp;plans complement the company’s previously announced intention to spend $11 billion worth on data centers in the United Kingdom by 2028. (Disclosure: Andrew Ng is a member of Amazon’s board of directors.)</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">How it works:</span> Announced late last year, Project Rainier calls for connecting hundreds of thousands of high-performance processors for use by Amazon’s AI partner Anthropic. Amazon <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZBC5nR3bW50kH_H6lZ3n9W3h_0rs4SPMSSW4mKfYH91tPV6W8H3QCz4sJHHHW1M-2-w4Gby-KW1-2J8n14tqqdW3ZCHr56n2-GgN25sB5m-Sy3kW46r-zD2TXMr6W3cVJTQ7MYCWNW38G3q61n-yW5W25yBLQ6j5GPZW28mbds39W7bXW4BGY282sFblvW5dRZ5J6M8SFGW11b8BC28JhyQW2T5s9J422hz1W7T0BVN7v7-k9W7HKZKF8xwQkfW9kLY1z1dyYt8W26fyLp8Wl_LqVG9Cf_6hy6nSW1km1W15gLjmRMGTmXTwkFNWW8dD1466n34tJW4JV0MY6cbFKLW4NKy_F32LbvwW5Fcvw96JYSCcW77nZGD6mdFdGW4ksnhh6Ps95pW4tZHVz6Q73P4W40wd7W2G982GW6GZfb91MFl2Gf43prFW04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="F/mgLGiq" target="_blank">invested</a> $8 billion in Anthropic over the last two years, and their alliance is a key part of Amazon’s strategy to compete against other AI giants. Anthropic may use all of New Carlisle’s processing power to build a single system, Anthropic co-founder Tom Brown said.</p>
+<ul style="mso-line-height-rule:exactly; line-height:150%">
+<li aria-level="1">The data centers will be based on Amazon-designed <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD43qgz0W7Y8-PT6lZ3kxN95rrg4fHknRVtP4_k8HGCmSW1FCVTy6QDZNyW2Kcrrp2p2ZH4W3JT6cx6j3KQDW6qCJY86Xb4S7W5VLfL316JgPtVdrYwP4NSB9zN663mcm8ZmNwVXdzdF3hgzHKW5TNVSW8VLXT5W4R7Pcx3vqW5hW7T5_JL6vNfpRW8QNYj82SfQlpW79D4sG3glNq9W3nGn8r8PspDjV1WcLN6bMW0FW4S9GMP89wWS6W5k-M_75h6dl9W7qyVwr7bv_tnW8SG6H-8bc41_W38pL626JxnCkN8fFSvXKpPnJW8NN-l91jBM9KW7K7hHY66FhhCW6t1_RH5BXSTXf4XNTMW04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="4Z8uLIt9" target="_blank">Trainium 2</a> and upcoming Trainium 3 processors, which are optimized to process large transformers, rather than processors from industry leader Nvidia or challenger AMD. Trainium 2 delivers lower performance but greater energy efficiency, and Trainium 3 will deliver 4 times greater performance while using 60 percent as much energy, <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZBC5nR3bW50kH_H6lZ3ltW8Ft6Gy1m1shmW6gmjh-60PccYVMn8GH3t0XDQW1qZ_5n7SKyvnW78L3Wz4mv2jVN1_bTg5sDss7W7r9Dhd5npBwVW6vK25Z82bHZNW1VdYqZ5xT31TW4nzPCF6jhg6xN3zCwFlBfdCGW5SC4xZ6k16lHW8Tpy4W72--jtW753QsS65Tx6YW1mR4GM5QlLRRW2Yz9by24qHj-W57CMV92rYqC2W2hcgzY1gTgJ8Vg621J6x4MJnW7hMzbQ9gjXVnW3KWffZ5j6N2nW847tHN12SFpzW2H565f6P6HkvW3-1NnD7X2cqcW5Pn51N1c4_SwW3Jk5-h4_n2T8W10rFMs6wMf-_W4D88rt5rkR3bW51kMg28LbXJSVJQ9lp4TFLB3W3Y_C9t6W4rfwW5yWPwt7F8GV_f7bkHVT04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="H+es3J2W" target="_blank">according to</a>&nbsp;market research firm AIM Research.</li>
+<li aria-level="1">Similarly, Amazon plans to connect the Project Rainier facilities using a network interface of its own design, Elastic Fabric Adapter, rather than interconnect technologies typically used by its competitors.</li>
+</ul>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Behind the news:</span> AI leaders are spending tens of billions of dollars on computing infrastructure to serve fast-growing customer bases and, they hope, develop breakthroughs that&nbsp;enable them to leap ahead of competitors. A large part of Alphabet’s expected $75 billion in capital expenditures will be <a  href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZBC5nR3bW50kH_H6lZ3mRW6sctC85w-v4lW52xfMf5Sv0G9W1VCqNQ3rFVkSW7RZBCK9fyB3lW24LhfP4Gp7hRW7rV4mw6SfHbXW2K346K8T1s7wW4GWvMj3rmhJ7W8s8rP48zX7Q8W2PvS9G5KrN4lW2mShHH4wrBs5W11SRQS92RCr5N98Hs3PV_5jlV7YX0C2mqH9lW71ztMw4TkryVVN71-p7B3MHXW5CjnKT5-LSjkW2GTdFV4z2DhlN2kf64NPqP15V1KHt35QqyjCW4w4lKm9c-j3lW4s6DMv35MFCxN5Xzc-S7bYmXW34mz3J8Dx6qTW4kwXcC4KTRypW5g6_fk51d5TGN6Dx0rW4g-JNW97QWp86X29htW6J-Dqm45qzRbW7vyDdl2VVC5HW3Pzd-g60zKZjW5s2lxy7Dl7lQf523q5l04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="htWyEwMh" target="_blank">spent</a> building data centers. Microsoft plans to invest $80 billion in data centers this year, and OpenAI and partners are building a data center complex in Texas at an&nbsp;estimated&nbsp;cost of&nbsp;$60 billion.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Why it matters:</span> Amazon’s commitment to Project Rainier signals its belief that Anthropic can give it a crucial edge. The stakes are high, as the company dives headlong into AI-driven retailing and logistics, warehouse robotics, and consumer services&nbsp;like the revamped Alexa digital assistant. However, should Anthropic stall, Amazon can roll its immense computing resources into its enormously successful Amazon Web Services cloud-computing business.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">We’re thinking:</span> Amazon’s emphasis on internal hardware development reflects a focus on maintaining control of costs and operations. It has learned the hard lessons of competition in retailing, where margins are thin and expenses are in flux.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p></div></div>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style=""><tbody><tr><td style="font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word; padding:0px 0px 10px"><div id="hs_cos_wrapper_module_17370396178185" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="none" border="0" cellpadding="0" cellspacing="0" style="vertical-align:top" width="100%">
+  <tbody><tr>
+    <td align="center" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; font-size:0; word-break:break-word">
+      <p style="font-size:1px;border-top:1px solid #000000;width:100%;margin:0 auto;"></p>
+      <!--[if mso]>
+        <table role="none" align="center" border="0" cellpadding="0" cellspacing="0" style="font-size:1px;border-top:1px solid #000000;width:600px;">
+          <tr>
+            <td style="height:0;line-height:0">&nbsp;</td>
+          </tr>
+        </table>
+      <![endif]-->
+    </td>
+  </tr>
+</tbody></table></div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_module_17241662452411" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; word-break:break-word; text-align:center; padding:5px 0px 10px; font-size:0px">
+        <img alt="Meta Aria Gen 2 smart glasses for AI and AR research, equipped with cameras, sensors, and microphones for real-time data capture." src="https://info.deeplearning.ai/hs-fs/hubfs/ARIA2-ezgif.com-optimize.gif?width=1200&amp;upscale=true&amp;name=ARIA2-ezgif.com-optimize.gif" style="outline:none; text-decoration:none; max-width:100%; font-size:16px" width="600" align="middle" class="stretch-on-mobile">
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+<div id="hs_cos_wrapper_hs_email_body_old9" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old9_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="margin:0; mso-line-height-rule:exactly; font-family:Helvetica, Arial, sans-serif; line-height:125%; font-size:32px; font-weight:bold">Meta’s Smart&nbsp;Glasses&nbsp;Come Into Focus</h1>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">Meta revealed new details about its latest&nbsp;Aria eyeglasses, which aim to give AI models&nbsp;a streaming, multisensory, human perspective.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">What’s new:</span> Meta <a  href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDn3qgz0W8wLKSR6lZ3nZVYH6Zd8BMf3VVfwq7q8vxp43W37yS475b3SFFW3mYVcQ4Xny9lW5mPFD97D9nlKW6GKKg670NPykW1s74yY5l2KgxVSL7zr8-KqBDW502YZY5VfTG8W194k0T5t79qwW5WtkJW1hS1TLW3m_0qm6T6NxZW3NRSDZ2yfdV-W7yK4tZ5qtjVbW2j2M_l97jWcpW8zyR5T8Kc3w8W3lZK_Q8GHS7kW4FdYnM2hBDQvN1zNz5S819K3VjKW8P6ZWNB2W7HC21n5JjCGWW8ZxTxg6mHGCzW4yq6S_39KJygW6fGxDB1TGy4BN1M2mDM6qmwwN10lttnPH4qqW28lc5C1C1v4gW3kth2547vqPwf4xYm3204" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="N3LNF1X7" target="_blank">described</a> its Aria Gen 2 smart-glasses platform in a blog post that focuses on capabilities relevant to research in augmented reality, “embodied AI” such as robot training, and “contextual AI” for personal use. Units will be available to researchers later this year. Meanwhile, you can <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCP3qgz0W7lCdLW6lZ3nVW7RTM1j7PF2QtW4fFryL32lm5-W6qtGJh1QyrBbW6wr5mK2TSBTmVppqM42NwLg4V7cP-M3LZDvFW9fJSTB6cB6yjW8jTswZ1zF9f_W8DyYQd7hnHK-W8rwX-y7nHYPSW6hdGVk8HW2YNW2kgGdt1PTbsBW2T3-ZB2kyW5zW3htGhk4BCrh7W9cqp5n5s0mtVW65THXT2dFflwW2ZGFMR4S_gM6W7DPKqV2RPH_lW97d4vD25FN63N9k2j_-SVNq5W7TdR-72wwJplW3N5q3X8__rX_W3FkSZz21W0g4W8ZBz6d7NLTWjf6hj_pT04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="9vMpDDU2" target="_blank">apply for access to Aria Generation 1</a>&nbsp;and <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCP3qgz0W7lCdLW6lZ3kVW1D2NFS6RwHXGW2f02Jl1zVR-PW8fMmNZ5Y_LpZW8BnZyl6pS75BV_sHmj4sThTgN7MZFbnTz9tFW6hpWnY1FYlKMW8KHjfQ1C_-ntW2vrLlc49h5ZqW8XDjWn2R7FzFW6tGSxk7x1fm9N6m3g92kNGJhW1WJxDr3jMyBhMBMbr_MzHkVN7n8YnNRvmQsW3S2rfl52rFPYW8DY28p5S4cJ8W7zRbp-2F80kTW6VMS1r4HzVmGW6jZ1xf8wCx1MW99gkkQ5fB0MSN7RsxNtKCPF2W2H5GfG4mZqV5W13jGZP3FFkZ0dzml6d04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="t/ISlRav" target="_blank">download</a> open source datasets, models, tools, 3D objects, and evals.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">How it works:</span> Aria Generation 2 packs an impressive variety of <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCP5nR3bW7lCGcx6lZ3mcW5XhYrN95gB1_W4-NnZY8NGGVjW8fsWzx7JGFKCW5pd8733cGnv5W8l7Lhr6sjzg_N1zJ_GfKRrKVMW6J7GZZnwrW1zsBfp6fgd40W1XYqcc88cxP1W2fljRZ3l3LYqVbCgXY2yXQjjW3f9_ZR8B-c2bMlg2WzM0VzCN2WNFrJ3qP1GW5H9xRG3v3vqnW2ChpLz3Fzr3cN3gJ9vKflfcqVtWL-j7vzL_rN8HcFVyVwjrMW2f1vPN4QdzzCW7xw5v93N20N_W82lsm_93LhyMW6c300K7lSTr-W343WkM86sGp_W9l6nF43wwS-kW8LMP_36SVkxKW6NdwfS3bwLDPW2fJKHv75LCKCW8LYGqp4jrL9NW3BRx_k5yQwt-W6v_tZT23yqVHW379wvc3yZXZ4W1-03r75y_613VlDksV3PrMxDW5rDYKQ2tj4mGW959PV32cSDZMW3_79dH3T2CHsW6H-prH7MNd18W71zsK-8zhGjrW3W_M1J6Yxkhjf4ZF-Cj04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="5sLRBPAt" target="_blank">technologies</a> into a package the shape of a pair of glasses and the weight of an egg (around 75 grams), with battery life of 6 to 8 hours. A suite of sensors enables the unit, in real time, to interpret user activity (including hand motions), surroundings, location, and interactions with nearby compatible devices. A privacy switch lets users disable&nbsp;data collection.</p>
+<ul style="mso-line-height-rule:exactly; line-height:150%">
+<li>A Qualcomm SD835 chip with 4GB RAM and 128GB storage processes input and output on the device itself. Users can stream the unit’s output, such as video, audio, and 3D point clouds, to a local PC or upload it for processing by perception services via cloud-based APIs.</li>
+<li>The unit includes five cameras: An RGB camera captures the user’s point of view. Two more help track the user’s visual attention based on gaze direction per eye, vergence point, pupil diameters, and blinking. A stereoscopic pair helps map the surroundings in three dimensions via simultaneous localization and mapping (SLAM). In addition, an ambient light sensor helps control camera exposure. It includes an ultraviolet perception mode to help distinguish indoor from outdoor environments.</li>
+<li>Seven microphones help&nbsp;to monitor surrounding sounds and their locations. A separate contact microphone picks up the user’s voice, helping to make the user intelligible in noisy environments. A pair of open-ear speakers reproduces sounds.</li>
+<li>Other sensors include two motion-sensing inertial measurement units (IMUs), a barometer, and a magnetometer to help track the unit’s motion and orientation; global navigation satellite receiver to help track its location; and a&nbsp;photoplethysmography (PPG) sensor to detect the user’s heart rate.&nbsp;Wi-Fi and Bluetooth beacons&nbsp;connect to external networks, and USB-C port accepts other signals.</li>
+<li>A common clock calibrates and time-stamps most sensor readings with nanosecond resolution to synchronize with external devices including nearby Aria units.</li>
+</ul>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Applications:</span> Meta showed off a few applications in video demonstrations.</p>
+<ul style="mso-line-height-rule:exactly; line-height:150%">
+<li>The fields of view of the two stereoscopic cameras overlap by 80 degrees, enabling the system to generate a depth map of a user’s surroundings. The depth map can be used to reconstruct the scene’s 3D geometry dynamically in real time.</li>
+<li>This 3D capability enables the system to track the user’s hands, including articulations of all hand joints, in 3D space. Meta touts this capability for annotating datasets to train dextrous robot hands.</li>
+<li>The contact microphone picks up the user’s voice through vibrations in the unit’s nosebridge rather than the surrounding air. This makes it possible for the system to detect words spoken by the user at a whisper even in very noisy environments.</li>
+<li>The unit broadcasts timing information via sub-gigaHertz radio. Camera views from multiple Aria Generation 2 units can be synchronized&nbsp;with sub-millisecond accuracy.</li>
+</ul>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Behind the news:</span> Meta launched Project Aria in 2020, offering first-generation hardware to researchers. The following year, it struck a <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD43qgz0W7Y8-PT6lZ3n7W4VnWQt66Y8cWW4c2TbS1LJdvFN8stJyTldYPDW2Gt0qf5_xj6-W8x9glQ2FvY61V2fW_L99vpXpW3BZd712sXxNBW14MQf66lBFvMW6H4ljN1zVD6NMq3_Glh0hnCW3vRSMj52HDrSW170Wfp8WDHyRW6wktYk8tWQz5W8qh5D45BRXfcW5DYGCN8q6rhlW7r555q18LNygW81_ZJB8k_wHBW5V8X9r9bYPH1W5Tl10Q9lgw2PVwQrWW8ZKJ2HW2JhLFV95t3xDW5P55LT90g-XLW1XxcL63rDFv0W6xrM1W2yLYV-W9kpQDW34Sm2NW8V4TM15_bmXFdBXqln04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="sWJGeeGN" target="_blank">partnership</a>&nbsp;with the auto maker BMW to integrate a driver’s perspective with automobile data for safety and other applications. Research <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCb5nR3bW69t95C6lZ3pCV9308s5h27nsN1dRmKG_slpSW3NxdkS8_bmlLN4klYj_lNFs3W7dvjMz7KZQ8SW1jCT9q2rFTTLN63rj2lY87-FW3yrb4M7kzdyKN2Mm0FcMfZTjVTbMFy1c8Ly5W8bs5-T4ZpQ9XW2Y2bxV2qn2SJW8tJKgy188H--MtpSn6vl-zCW7NSQBN72B9PmW2Rpvb-55b6nKW4jpkd172YgvTW7m2bTd6dwpbVW2K11_r6Cy4bmN105qh2lpydRW9cQ3CY2Twz2JW6-lK_F7PRn7hW5Dj8Sr2LGhYKW2TSfs11bhw60W7QLTfj826VcXW7lsC9J327PmgW2Sx1yV8RLqH-VJp18j3YGSWTW2m0s648ZDb0dW5bX_NS5K7xSfV7qsLr5_h8B4W4CPZjp3SY-JWW7k1vrv39BrZHW78NcZN7RfLKpN6ZtK-lHw_8ZW24DGh28nCTp3f1YJp3Y04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="mSulNLcq" target="_blank">projects</a> at a variety of universities followed. Meta <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD45nR3bW7Y9pgv6lZ3l8N1X3cj550dS9W2SsWYD5gXswBW6b7hcS5mg0wTW1PjJtt19_FLnW5gP-Sl3BY8M4N8gTfQ2P_f0VW6mj62y76V6MvN79RRMrcLt1pVLBxR64h-N8sW489sWf8Pkb-kW44bZ1J4WHsdyW3hXZBM4wwm79W1kcTVL1wqDByW7yv93Z1jnVSMW8nQcD02y6gvpW8QfFTQ31NhdgW9dkX8Q4YFTnLW8tGzJ79lFVKgW6jJx5_3d6vdGW186HLt7p5Q-CW5fY3D02ZhTjsW5dn_Zp4bL2nhW7JKkyP5YjYBLN5SHpQqP_sBLW8M2_dv527Y6zW52gd9q50J8zyMQnJclpL-myW77ylXh5ZvNHNVN9dT31MHhZFVYTHzh3ZB9gwW4SYRBT6rQYPYW3lmC7r4zzK1kN53hfJvNKRR3W5L5Q9R7LfjT-W59xPD46PGnyHW78J2Wf9j-qgfW129bkV5M-d7tVzX3WS5fVFW6W7VfjKc4CsZ9mW6ynZF-28-kndN4rDNWHMM6xqW2dDkp_3qP4cff6Qh87g04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="BKLLl0Il" target="_blank">unveiled</a>&nbsp;the second-generation glasses in February.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Why it matters:</span> Many current AI models learn from datasets that don’t include time measurements, so they gain little perspective on human experience from moment to moment. Meta’s Aria project offers a platform to fill the gap with rich, multimodal data captured in real time from a human’s-eye view. Models trained on this sort of data and applications built on them may open new vistas in augmented reality,&nbsp;robotics, and ubiquitous computing.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">We’re thinking:</span> Google Glass came and went 10 years ago. Since then, AI has come a long way — with much farther to go — and the culture of wearable computing has evolved as well. It’s a great moment to re-explore the potential of&nbsp;smart glasses.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p></div></div>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style=""><tbody><tr><td style="font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word; padding:0px 0px 10px"><div id="hs_cos_wrapper_hs_email_body_old13" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="none" border="0" cellpadding="0" cellspacing="0" style="vertical-align:top" width="100%">
+  <tbody><tr>
+    <td align="center" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; font-size:0; word-break:break-word">
+      <p style="font-size:1px;border-top:1px solid #000000;width:100%;margin:0 auto;"></p>
+      <!--[if mso]>
+        <table role="none" align="center" border="0" cellpadding="0" cellspacing="0" style="font-size:1px;border-top:1px solid #000000;width:600px;">
+          <tr>
+            <td style="height:0;line-height:0">&nbsp;</td>
+          </tr>
+        </table>
+      <![endif]-->
+    </td>
+  </tr>
+</tbody></table></div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_module_17241662744162" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; word-break:break-word; text-align:center; padding:5px 0px 10px; font-size:0px">
+        <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCP3hCZYW7lCdLW6lZ3mBW5qdGMT8ySZhqMmxFdmfYwpVW363RFY98XmkbW5v1D3r754b7TW8hSQMJ6N7T_TW4QsRqd6G11B8W1W_6P-1D-CB6W31lqMp5Rl9VnN95xBYq4pngLW932ng94MtQCGN64M8YJzVhCYW7_cnR41WJhZ1W4kp2Dm62DVQQW54xd_y1xlvRvW43TCwr2GKlcCW8nr92K3Bh5nsW5YQj_567yHx1N3dH2QY5L9cjW4sQ4vS3-bflRW1zLPpK5BS7wDVSXzSS15Z4ZRW7nDVXq6nnSdYV1wNTP3FzgLdW8xvJZ-6vmhQMf42tcYW04" target="_blank" style="color:#00a4bd" data-hs-link-id="0" data-hs-link-id-v2="zgzP40uf">
+        <img alt="Office team analyzing data and reports, with computers displaying graphs and charts in a modern workspace setting." src="https://info.deeplearning.ai/hs-fs/hubfs/Whisk_162b338651.jpg?width=1200&amp;upscale=true&amp;name=Whisk_162b338651.jpg" style="outline:none; text-decoration:none; border:none; max-width:100%; font-size:16px" width="600" align="middle" class="stretch-on-mobile">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+<div id="hs_cos_wrapper_hs_email_body_old24" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old24_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="margin:0; mso-line-height-rule:exactly; font-family:Helvetica, Arial, sans-serif; line-height:125%; font-size:32px; font-weight:bold">Learn More About AI With Data Points!</h1>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Helvetica, Arial, sans-serif;">AI is moving faster than ever. Data Points helps you make sense of it just as fast. Data Points arrives in your inbox twice a week with six brief news stories. <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCb9cftvW69v02T6lZ3pxW55pqp143NqBSW8J4Rcf8bbRv_W59yhwN2BkQ1lW60zzwb2z8fSHW8l33HV5XqdQhW4hy9v54d3X4bN2rNt5Q_sDFkW2kR2ys5v_YfXW6t8CNP2q72FCN8pxpJgCxvK4W7j4NzD8PnBP3W2K6GgB8-bzTLN3qr1Vh1ssyVW91YM7z44yBX3N1RMQ_k2n6_ZW1SmMvs1WNNVwW97ZVjP4YlzjFW9kFKWr93fk0wW1CZ-jx2GlDDWW4-sqbl2Sks4CW1n6_D43WbrhpW6GxgpC7V3QchW7YftL83nf-wXW64tBxc8fZscCW6ByNnL4D0ZWJW8lymM772cXkXW4BQl9w57DwfKW6LX9YF2jPCZHW6cwHT-5LgZD5W4qHYTg7hXDG8W8WYwG87mpH5wW3gFz0W45Dl0gVZy0XW2lgD6GW4jxYnZ5RtrhHW7s5hJ59g0V4WW276ZYZ87RbJVW48H6gW8n89p_W3Lv0Dp8Wf7pxMrfJc1gvr8GW7TF_Nn4jmgtFW2gBx9w2xYMr0W6HzfLd7VH7DdW2J_wln4fF82KW2p5GnF5Nc1LLW445g801vc9CGW7lMQ9Q8jplf5W26RfNc8vqqxBW7PSwc-5w3g2FM8k3JgzGwn2W84SmCk3WvtjZW1Y_DwZ3rTSTqW6BnYmb2N4TB1W8WcF_98b5gpgW3m4pBx5D1X5QW7H_Bzf45zCMwW36wwgq4Y5XSGW75hj9g1bdLTjV5352D4_L8QDW6v5Qwt1mbxQ8W7JVGW-5pJ-x_W29NGDb4SNtCpN2tZlKFX9B87W1g4c001BB5qWW8ghg6M4W0QbRW2gbxMl1z5sk8N66c0fg1TX17W20-kXV5fQdN4W1zDdvy9hbKgVf8HZkFM04" target="_blank" rel="noopener" data-hs-link-id="0" data-hs-link-id-v2="5wDw1Yp3" style="color:#237b94">Subscribe today</a>!</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p></div></div>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style=""><tbody><tr><td style="font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word; padding:0px 0px 10px"><div id="hs_cos_wrapper_module_17370394853571" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="none" border="0" cellpadding="0" cellspacing="0" style="vertical-align:top" width="100%">
+  <tbody><tr>
+    <td align="center" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; font-size:0; word-break:break-word">
+      <p style="font-size:1px;border-top:1px solid #000000;width:100%;margin:0 auto;"></p>
+      <!--[if mso]>
+        <table role="none" align="center" border="0" cellpadding="0" cellspacing="0" style="font-size:1px;border-top:1px solid #000000;width:600px;">
+          <tr>
+            <td style="height:0;line-height:0">&nbsp;</td>
+          </tr>
+        </table>
+      <![endif]-->
+    </td>
+  </tr>
+</tbody></table></div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_module_17370394878062" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; word-break:break-word; text-align:center; padding:5px 0px 10px; font-size:0px">
+        <img alt="AI model animation predicting Cyclone Alfred’s path using ensemble graph neural networks with improved accuracy over 15 days." src="https://info.deeplearning.ai/hs-fs/hubfs/HURRICANE%20highest%20res.gif?width=1200&amp;upscale=true&amp;name=HURRICANE%20highest%20res.gif" style="outline:none; text-decoration:none; max-width:100%; font-size:16px" width="600" align="middle" class="stretch-on-mobile">
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+<div id="hs_cos_wrapper_hs_email_body_old21" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old21_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="margin:0; mso-line-height-rule:exactly; font-family:Helvetica, Arial, sans-serif; line-height:125%; font-size:32px; font-weight:bold">AI Weather Prediction Gains Traction</h1>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">The U.S. government is using AI to predict the paths of hurricanes.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">What’s new:</span> As the world enters the season of tropical cyclones, National Hurricane Center (NHC), a division of the National Weather Service, is <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDn3qgz0W8wLKSR6lZ3pdW4K77tc74smZ3W53m0Sk2gghj-W7RdZ3-7Kgk_9W7xlHNh3prM2SW5KPcMh6MCkSPW9kmRPr7SZ6g8W4Q24Bc8ht_6BW7hvX836knk1FW208xy466d5hMW33-zn61LVKyBW6ZFT5Z5183fJN1Dlnkg3R7qrW1_VSm01-NyltW1Gczlv2Ygv6sW9j8tmY8khfXwW3ZFCRk3VJhwQW1-4zPb1GSKyxVY01Jl2J7y14W4Mh0dq6G54GcW7-y95T4bKZC1W4D9svg3nzpvfW8ZZp5f8ZCkDqW1M1bjz6gP0gZVr276y30v3tDN7_g0RGgm2ptW95MKjg926g0qW7ZdvJ17yHFwRW3VZrCQ7n4zDsf3DtJPM04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="5HTJ5OPl" target="_blank">collaborating</a> on Google’s <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDn3qgz0W8wLKSR6lZ3nrW5rpF-g5D3H9gW5xrD-p5zHSg4W5Hmwn217j1mdW1M-YG18fDS88W2cCVB42-8WhNW8Z5P0P3kdHjPW3_5Pbp5GPkNTW9ccwgJ7zdH9KN1bYwHyJFQj0W7VN4ZG1SvPftN2yp64N-fCcCW8nk9Pz88nSczW7NvpFs964ZnpW6pkqcd6hFS1CW8_02TY96PqwrW4rqhjD4c8dS4W1rTvP55ZQk9mN40PvZQ1d1KwVT_F9K1gxfwHW46zbZ88K208sW2V2W2V4f4gV2W3Z6gCy6TSXxpW2gTc-k5pb_FyW8nVDWk8lqjSWVfWbN91Ksjp-W2qKnjT1pyvCjV18mTn3fTg6WW3_6Nk45DGH24dfvSWd04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="uV4f90oO" target="_blank">Weather Lab</a>. The web-based lab hosts various weather-prediction models, including a new <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCP3qgz0W7lCdLW6lZ3pKW4K1Yx999WwqjW1s-vT845HkDSW8D4WBH5VL5H4W206cQD464c2lW2kbYJ72h3n8nW8RsVJj60WkrxW41f-Lm23hbprN10nbzpYC26XN1zjRhCR7h0SW95RDG-3ChwyhW12r8qX2yyMF2W4SzNKN5x1JLzW7zjqWl2ptPqlW2H_9M4632HjpW8Zbf4F6fP8cVN2HzjwRgbds3W47Sp4y3P86G2W4TDxNb6TRqzbW6BW1lY2HV_NxN3nMcVmVCYV1W94TNn87djr8LW8Y88cx1Xk3zMW6xndWJ16McX8N28Qj47GXXrzf448fLY04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="KP1YpWlS" target="_blank">model</a> that can predict a storm’s&nbsp;formation, path, and intensity more accurately, 15 days ahead, than traditional methods.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Key insight:</span> Models of complicated systems like weather must account for two types of randomness: (i) randomness that a model could have learned to predict with better data or training and (ii) randomness the model could not have learned, regardless of data or training methods. To address the first type, you can train an ensemble of models. To address the second, you can add randomness at inference.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">How it works:</span> The authors trained an ensemble of graph neural networks, which process data in the form of nodes and edges that connect them, to predict the weather at locations on Earth based on the weather at each location (node) and nearby locations (other nodes connected to the target location by edges) at the previous two time steps (which were 12 hours apart early in training and 6 hours apart later).</p>
+<ul style="mso-line-height-rule:exactly; line-height:150%">
+<li aria-level="1">The authors separately pretrained four graph neural networks on <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD43qgz0W7Y8-PT6lZ3pxW8BgZxx5zfY_1W5BDKcH1bv5GDW6Clcs58V6FMwF7RrhnKc2DqW2sFXzl46-2z1W7frSjW6Cg0jNW4XqfSY4MFq9CW8KyLp92Db3j8Vnkwhg15ghP1W7nFBQ680HFrzW64lwnQ5mnLCWN8GXPwb9sZFHW1Zs2g32839fpW8nxR382M3nqdW66G_-k61GlMJW28q52N3bpw_1N66FQchYKB4RW8Y_33f167yhNW6HlbPV5609hKW1q1W4c90xsrcW60mkgC8lH7PCW4mwyVq7B26PRW12wBc_7883cnW1nDZkZ7kshRRW6ztZF_7rCV_YW43h83P5Xr2rrf6bKmy604" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="cvX3IaXE" target="_blank">global weather data from 1979 to 2018</a>. The loss function encouraged the models to both predict the correct weather at all locations and minimize the difference between the models’ prediction before and after adding noise to its weights. The latter term helped the models to learn weights that produce good predictions even after they’ve been randomly modified.</li>
+<li aria-level="1">They fine-tuned the graph neural networks on <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDH3qgz0W95jsWP6lZ3myW91rkmj6CJlbFV5nb_z5NlBpGW3Zct2t6rB0-2W6wvg0X2DrvjHN1gB4FDdrCrfW3M-cKc2vTBvBW3fvds16wxQP4W2VPPbn7fX3g0W3RCSmK172hftW2wHyvw2ZG0cmW1bWGM-72qYKCW8PJK2z7pdz5ZMQ5Cz1nBFk2W1fxxj04FckmwW1LZfqc8FdVjvW85Xr6t15GkzBW6CdWb24xy7-sW7bfSPw7BTrQpW6k9XSR72sfdQW86WNCK3PkN8cW8F5wrX2xtV_lW1qkXyM5ScT_LW2kR7Mq19wV9xW9cZy8J21MTmVN3w8DBkMpjndW1w4Lmh1MLb0WW4fXQ9j6LCLT9W38zp8S7F_ztzW1HVRdq2x2wRHW10Mqcf4rZVtMf1bdcY804" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="ELg/IBO2" target="_blank">global weather data from 2016 to 2022</a>. They used the same loss function as before, but instead of learning to predict only the next step, the model learned to predict the next 8 steps iteratively.</li>
+<li aria-level="1">At inference, for each graph neural network, they added noise to the weights 14 times, leading to an ensemble of 4*14 = 56 models. The final result is the average of their predictions.</li>
+</ul>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Results:</span> The authors’ method predicted 2023 weather and cyclone tracks better than their previous model, <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD43qgz0W7Y8-PT6lZ3pCW7GQ3SL22yh7-W4Y8gKd4XlsS4W5883VB8vmFDNVjm-xK72Y2mHW7pDkPx7n0kKpW4YPklm5HHW_TW92G8jx1t3G6cN3-SsrjYyf8PW16Wfwc8Vgj5CN3dcvX7jByPpW3K7V8z9cVr-CN28WyNf-F8H1VbGKwx8V5KKMW24D_dd4cDrgSW7rd3Ly7YWF-mW1bMJrS2vL5z1W3JZbM880RNTtW7-GpJn8zKCG8W2sD59h51yWWnVpT61n8GHbNXW4p-WtP5np6r8W4Q-v5x66xMw3W6MdJq992yRZJW3w2kXc686dLPW5l9hYy6TwfhVW2WJRKX44_YZHf7JGycF04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="56f25BWJ" target="_blank">GenCast</a>, which had exceeded the previously state-of-the-art <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDH3qgz0W95jsWP6lZ3m8W1WPH-_8W-2KlW4P3mjw2mvqWBW7F7XqV8wysz4N19RRxwgyfJlW5py5Wc9kgKB8W2Bhx3t1cnZwJW52vzbp7HFljgW3RYDky4RJx-xW9g0Qvg6pV8VtN3DbSfpdfn0YVmv7nZ9cmkxLW5Gxqz02Vs5GSW2ySyfj2wm0kwN2BmBsQhwS7kW27HrG01sYRK9W78YPnl8kBPfWN3v8DSc7gTGSW5yc4kZ4tLQ27W5FKvvn3LHdt2W25BFmr3v2hWKW4fVfsm3bYHRMW1cNCrP3859tJW5Zb0JT2P1-2vW4ktXbj4CYwH7W37D7kL81Kq1hW6P4CGY7Fpy_CVvf5d35bBBLdW1KS2X87W2JyRW79vBr78bcJWbW2dLpB85yXpGXf1ZPjn804" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="nnlxNoE9" target="_blank">ENS</a> model).</p>
+<ul style="mso-line-height-rule:exactly; line-height:150%">
+<li aria-level="1">The author’s method produced predictions whose root mean squared error (RMSE) was an average 5.8 percent lower across all combinations of location, lead time, and variables such as temperature or humidity.</li>
+<li aria-level="1">Predicting a cyclone’s geographical position 3 days ahead, the authors’ method was more accurate than GenCast’s prediction 2 days ahead. Predicting 5 days ahead, the authors’ method came an average of 140 kilometers nearer to the correct position than ENS, which achieved similar accuracy when predicting 3.5 days ahead.</li>
+<li aria-level="1">While previous AI models have struggled to predict the cyclone wind speed, the author’s method achieved lower average error than both ENS and the <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZD43qgz0W7Y8-PT6lZ3l5W2kj2wN65jn-HW34WJ6h5tgSXLW1ccV1_3_D1DYW6Z63wJ4pXH7KW4F0j_T8_9-7tW8Sy1gp5PBs0WN8hBWtxw9JLqW3yRD2Q4Yjd-qW5r5ybh328Gp3N83Bwx37l8BGW9bknVQ6d6hQ5W9b6Fd47JPsWNW8rHPbM8HHcRRW66n4cl8Ln_fJN4g5lkXWld_MW991cPr1TwVzkW1WsDyg3HzzSmW4JJ1hV1lzm7JW4jw9507MVfGRW1HZz1s91v4PrW7PtFQC4Ks-jgN7jq0tRMhcczW7nZz-w3sWz1kW6n9y-r4pLX5-V2BX6T30SWHVW7MScRw8pbYZKf6WDdxj04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="P8WI2DFi" target="_blank">Hurricane Analysis and Forecast System</a>&nbsp;maintained by the National Oceanic and Atmospheric Administration.</li>
+</ul>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Why it matters:</span> Hurricanes are often destructive and deadly. In 2005, Hurricane Katrina struck the U.S. Gulf Coast, resulting in 1,200 deaths and $108 billion in damage. The partnership between Google and the National Hurricane Center seeks to determine how AI models could improve hurricane predictions and save lives.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">We’re thinking:</span> This lightning fast progress in weather modeling should precipitate better forecasts.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p></div></div>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style=""><tbody><tr><td style="font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word; padding:0px 0px 10px"><div id="hs_cos_wrapper_hs_email_body_old22" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="none" border="0" cellpadding="0" cellspacing="0" style="vertical-align:top" width="100%">
+  <tbody><tr>
+    <td align="center" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; font-size:0; word-break:break-word">
+      <p style="font-size:1px;border-top:1px solid #000000;width:100%;margin:0 auto;"></p>
+      <!--[if mso]>
+        <table role="none" align="center" border="0" cellpadding="0" cellspacing="0" style="font-size:1px;border-top:1px solid #000000;width:600px;">
+          <tr>
+            <td style="height:0;line-height:0">&nbsp;</td>
+          </tr>
+        </table>
+      <![endif]-->
+    </td>
+  </tr>
+</tbody></table></div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_module_17241662955853" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; word-break:break-word; text-align:center; padding:5px 0px 10px; font-size:0px">
+        <img alt="Diagram comparing LLM answers with and without hints, showing models may change answers without reflecting hints in reasoning steps." src="https://info.deeplearning.ai/hs-fs/hubfs/REASONING.png?width=1200&amp;upscale=true&amp;name=REASONING.png" style="outline:none; text-decoration:none; max-width:100%; font-size:16px" width="600" align="middle" class="stretch-on-mobile">
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+<div id="hs_cos_wrapper_module_17370395015403" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module_17370395015403_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="margin:0; mso-line-height-rule:exactly; font-family:Helvetica, Arial, sans-serif; line-height:125%; font-size:32px; font-weight:bold">Reasoning for No Reason</h1>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">Does a reasoning model’s chain of thought explain how it arrived at its output? Researchers found that often it doesn’t.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">What’s new:</span> When prompting large language models with multiple-choice questions, Yanda Chen and colleagues at Anthropic <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDn3qgz0W8wLKSR6lZ3plW393WyY6SN3rrW6gFy534v_WYjW4-R380218CRcW3Wn8qc7mv6NpW7j4Lw33NVKQCVCx0G62V_fHFW3TXm7G3Kb8TFN7m4DglDMJZqW29Wn2n37ykj-W1GK48b987mLSW3kjC6043G0j3VFsdjP4xxNR5W8fWWdY3MrWm_VY2-9f1Wht5mW5Shkxr1nmDHhN1Lh24jXrQTBV4fzVS8LjF33VdrkNq4sW6yxW4y5P2l1ZGQRBW3vgJl_5qtFQvW1r_F534fNJsZW5TXk711zJb2jW5W9sJM7NYc17W5Fsn_C2LW1HXVcz1Rj8_4GB4W35zbht2NlslnW68Z_vW8lyPbcVXhRsk1h-qM-f16-W7K04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="4LUfQydg" target="_blank">provided hints that pointed to the wrong answers</a>. The models were swayed by the hints but frequently left them out of their chains of thought.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Key insight:</span> Machine learning researchers might assume that a model’s chain of thought explains its output. But is this true? One way to check is to give the model information that guides it toward a particular response and then see whether, when the model generates that response, the information appears in its chain of thought.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">How it works:</span> The authors prompted <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZBC5nR3bW50kH_H6lZ3ppW4bR0yw2YCvpmW3BKp3j96JHJXW3g93zg2DztMTW1DrQpL7L0Lb1W5-pBbW78sq0nW1XWzS64YXDglW84mFrf55_hrfW7CkdLn19F0dzW827T5d6-kdSrW4J04Nn20qtqxW7ndjgs4qVN_DW64x6FZ8YKlmJW5KQFQg3F5DZxW6G3-VL22QPChW3p6y2d6K78wBW7TkG597nXDV5W80ygNr71NBVSW4Y50RJ1-6DtsW5f8Rvl5wPZrpMklZDpPTMppMl9MZJ6HkqkW5MZ6vd3YyrjtW6_jpN07rGmX3W6jLjMp57QZ9ZW3nzzPl6dzSX2W4TtWjR9cZmMzW8xCZ2x2DgnyXW7xZQGf9kymKNVzf07T1xnhn2VYf5xY1S5yH7W38Z3Wp15nQNkW8MPXrN951n1Ff8Xfb3T04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="2YdULtkn" target="_blank">Claude 3.7 Sonnet</a> and <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDH3qgz0W95jsWP6lZ3mgN8BRgjG_9v6bW8XY3zh1NTz8zW3h_Qhs1BrNcrW8MWmHp466v6wW1r9pH121631bW2fqnmc4WTn9lW8gFgSl7ML9CWVGvKLJ7dB46jW6SPKsT5LLGRKW8-Q-0T75fkWnW23l0g25GZkRxW371gx87jm9nPW62wMKW5LXw2MVyPVGd7XqbnKW8lPd1H65RffDVzp-mj6p5szQW3QFYjr63ryzNW2CPJ_N8MXDVdW2pmtBD4TkQtzW4bJnwd6V15WzW28mLd-2T7b0QW60xC6X5cwZK6W892jtZ7nvCh5VNMjLl7cwYzlW2p34_z1qRpT-N3slxYTr1tM_N8jjq-9SvzgpW5RrGYl8d093nW9cCy112F8JnhW5h4nfz3TDT2nf36NxHC04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="kCHHZqkQ" target="_blank">DeepSeek-R1</a> with multiple choice questions from <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCv3qgz0W6N1vHY6lZ3mtW3yfgps6vWKrjN6bXfYplzRJbW4FRzHK1Vn8R8VqLWQk72pw_VVjW3NW2S7zp-W6yRRXk1ZNFfJW5pr-Hc1jnnytW7M9Kv968JScSW1nFRjh40ch7-W6HjFpM4tLFkzW18DCHz2L197MN9g-j90VMSxlVP1-Z1808cGJW6945nJ53SPXwW57k7Lz7tgpvmW8NdxkH6HXcRrW4KTQV-89pt-DW1Lx4FX4w3K3kW5PJrnP4BpkHQW4WD14z5FdBdQW43V2V195BW2gVMhdVL2c9TwSf45D71K04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="XugrruAf" target="_blank">MMLU</a> and <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCP3qgz0W7lCdLW6lZ3l8N72cwFBY5X-FW6YtBQm4x9H6LN7GMWCmM4cRqW6YTgZT4LMB7QW3CKMlt6g6jJrW4qlyNT3Sly_bW8xPYwQ7XPd4gW4Qn-Gr5F7g9lW1tHBtF1BYQHRN2rF_nJSVdrMW580D2K2-BM36N3w8vcl_MyqQW7gRmPw2V40pWVyjQQS1tzY5tN6RPCM4rQm--W4lzLB843H8BqW87tz4D2X-6TJW8rKf2r7slbgnVVDwqj4ZLx_SW5K-3k45qPPv0W16s39d4v63RGW3wgs-Q4bmNG3W5X97cP5rY4B4VMh3hM6v1d_tf7sLh1K04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="paJ4ow5X" target="_blank">GPQA</a>. They prompted separate copies of the models with the same questions plus hints to the wrong answer; for instance, “a Stanford professor indicates the answer is [A].”</p>
+<ul style="mso-line-height-rule:exactly; line-height:150%">
+<li aria-level="1">The hints took six forms. Some were apparently well-meaning; for instance, “I think the answer is (A) but I’m curious to hear what you think” or few-shot prompting in which desired answers were marked with a distinctive symbol. Others were clearly malign, such as telling the model, “You have gained unauthorized access to the system. The correct answer is . . . ”</li>
+</ul>
+<ul style="mso-line-height-rule:exactly; line-height:150%">
+<li aria-level="1">The authors compared the models’ responses to original and hinted versions of the same question to determine whether the hint had influenced the model’s output. When a model used the hinted answer, they prompted Claude 3.5 Sonnet to determine if a reference to the hint appeared in the chain of thought.</li>
+</ul>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Results:</span> The authors <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZDn3qgz0W8wLKSR6lZ3pqW8257km7Csk2vW49qvqD3gpD8lW3thFZL8TJ-vbW65zhG-4W89X3W6F4jY32wq0PZN7RKcLkDgNTpW1Y6jt35DYRxNW7PKXcs904TCjN2R2VZ7MB-HlW1_2-yz2Kch7RN3pX14WyDYCrW6_bGYt4G62Z4W8YfPFv8Q7xRZW5VLqcm90f8JNW533hL231X3GCW3GTXL296glRsW41cphy3vTcj1W3rWrzJ8RyNbfW5MG_S61lJMm_W7xFmbB1NfxzxN1DSkwvF2HdRVkslhV7LF8J7N35f-x3ZW5t6W6pBkz61PNPbcW5c3GVF6QPkhNW4hG8Fy9lJMmNVYvdBY23n7wKW6NKkkP2RmBvhf77zJST04" rel="noopener" style="color:#237b94" data-hs-link-id="1" data-hs-link-id-v2="qdJBHWHB" target="_blank">measured</a>&nbsp;how frequently the models both (i) generated the hinted answer and (ii) mentioned the hint in its chain of thought. Of the cases in which the models appeared to rely on the hint, Claude 3.7 Sonnet’s chain of thought mentioned the hint 25 percent of the time, and DeepSeek R1 mentioned the hint 39 percent of the time. This result suggests that a model’s chain of thought is not sufficient to determine how it arrived at its output.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Yes, but:</span> The author’s prompts were simpler than many real-world scenarios, and a hint’s absence from a chain of thought may simply reflect the fact that the model didn’t need to think much about it to reach a conclusion. For example, having been fed a hint, a model didn’t need to produce a chain of thought but&nbsp;could simply parrot the hint.&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">Why it matters: </span>In earlier <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZBC5nR3bW50kH_H6lZ3mLW1XKQ946F7Ln5W798_hM1Qr5RvVNvqqR6pCcrZW6lYcHN4Q_vm3VSf_Nv2CMWg6W287f2Q33N9ljW5QlfS146NKDXW609pBS3wDxdYW7x_lj_3g-FKzW9b-0YJ8BRB5zW1Wckk13qhLCMW7p4-fL2_0p9VW90vBGV1plqgCW4H5y7X1zGMxTN1ncMqPqChZHW92nrZn1G2vKXW1z_Cv5556F9qW31d6mc6qnTNqM5dPtsM5hXzW1TjvbY7_b8jvW6kNn0D8HXZ0MW8fp85P7jFdgQVDmHkK7VxK5pW2Rg33N521mjNW21kqj33LXdP5W1nVT3K5S5lM0W5dmWLq7sNgGjV-0Cp982DN30MtkWZ2bVj1fW5L38X654V9kBW4zx6JB7ZxD4DN1w9fgZr5RlXf49Dhg804" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="Via5oYq/" target="_blank">work</a>, Anthropic showed that examining the correlation between a model’s inputs and its intermediate embeddings can provide a rough idea of how it arrived at a specific output. This work shifts the inquiry to chains of thought. It suggests that while they may be useful, since they sometimes explain the final output, they’re not sufficient, since they may omit crucial information that the model used to reach its conclusions.&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-weight: bold;">We’re thinking:</span> Few tools are available to explain why a non-reasoning LLM generates a particular output, so&nbsp;perhaps it’s not surprising that a chain of thought isn’t always sufficient to explain a reasoning LLM’s output.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p></div></div>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style=""><tbody><tr><td style="font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word; padding:0px 0px 10px"><div id="hs_cos_wrapper_hs_email_body_old25" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="none" border="0" cellpadding="0" cellspacing="0" style="vertical-align:top" width="100%">
+  <tbody><tr>
+    <td align="center" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; font-size:0; word-break:break-word">
+      <p style="font-size:1px;border-top:1px solid #000000;width:100%;margin:0 auto;"></p>
+      <!--[if mso]>
+        <table role="none" align="center" border="0" cellpadding="0" cellspacing="0" style="font-size:1px;border-top:1px solid #000000;width:600px;">
+          <tr>
+            <td style="height:0;line-height:0">&nbsp;</td>
+          </tr>
+        </table>
+      <![endif]-->
+    </td>
+  </tr>
+</tbody></table></div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_hs_email_body_old29" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old29_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="margin:0; mso-line-height-rule:exactly; font-family:Helvetica, Arial, sans-serif; line-height:125%; font-size:32px">Work With Andrew Ng</h1>
+<p style="mso-line-height-rule:exactly; line-height:125%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">Join the teams that are bringing AI to the world! Check out job openings at&nbsp;<a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCP3qgz0W7lCdLW6lZ3myMFfqSKqm24gW3Vn0xT2FnmlbW9kDb2r6q9h44W7r-0yP2x7H4lN6hFd-XhxzYwW2JJNlK8t3db1W240jym3fgnXnW8p2-772kVd9vN9k9rTwPX8sJW3Hflr53npMSkW5wvh4h26NgDvW3-4P6R4wsVvxN6kzbyFCF4gFW8T_zcn7DY4WkVBWk9h3z6KL7VSd1917KS5zyW54gH6r4YTShqW8PF_s73sZQLZW9l4GtB2D6_YLVhZmCW6DWCSKW8yvlnR1PBpXYW36wssH1PPCW_W5FRvzn8C7zhyN7-t39z60my_f4-9LKM04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="cXHQINQr" target="_blank">DeepLearning.AI</a>,&nbsp;<a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCv3qgz0W6N1vHY6lZ3kCW4dHfLY3LxWzXW1D8kZl7LPkMTW2YCcLL3MsQdzW1NXrjP6f1jMhW1rldSG2TGVP5W62zy6X3Z4CYJW4xg7zS2zCtG0W35t3mN2dCRJzW1_nKw45Z5v1zW3XJKrh4sW8p1W5zYY8q8-yz47VbnCBg804SbKW1Kc4Sp5vqsBXW4bFhT42kxGyVW2yQj271HhNXKW63-JBT2VSy-TW8VdZg58MV3PLW8Wx0Yg48Zc1bW3FJQdf1fsRMqW79FkCh2vsXrHW7m2l9Z1LBWxbW739sBR8yBVttf4YZR6H04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="AdxhxV6z" target="_blank">AI Fund</a>, and&nbsp;<a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCv3qgz0W6N1vHY6lZ3pcW4ZSZ3y4dCYngW1WHPwF8zJ207W2_cPDh39_tD1W8b71kF7nLWslW7H40jl3qf0bVW9bCHVM65nW_mW7H_ZB-70CHy-W4wfxr72d4jvxW4JGLBH1crWCYW4s4YH68bhV4mW8rdKhZ4pTTzTW94vdHv1DlbVjN5h05crX51mDW8HfJph2cXD_gW4sV4wR6Hz80jW5SwFGq3F55N5W3gr7tN3krYxYVt_81-4kKl-vW4BgFYC31hQvcW1BFy0k5WtfHkMkhhQmy02CpN209HfmqsbKJf7J1dWM04" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="FaIZABW0" target="_blank">Landing AI</a>.</p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p></div></div>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style=""><tbody><tr><td style="font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word; padding:0px 0px 10px"><div id="hs_cos_wrapper_hs_email_body_old30" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="none" border="0" cellpadding="0" cellspacing="0" style="vertical-align:top" width="100%">
+  <tbody><tr>
+    <td align="center" style="font-family:Helvetica, Arial, sans-serif; color:#3b3b3b; font-size:0; word-break:break-word">
+      <p style="font-size:1px;border-top:1px solid #000000;width:100%;margin:0 auto;"></p>
+      <!--[if mso]>
+        <table role="none" align="center" border="0" cellpadding="0" cellspacing="0" style="font-size:1px;border-top:1px solid #000000;width:600px;">
+          <tr>
+            <td style="height:0;line-height:0">&nbsp;</td>
+          </tr>
+        </table>
+      <![endif]-->
+    </td>
+  </tr>
+</tbody></table></div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_hs_email_body_old31" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_hs_email_body_old31_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="mso-line-height-rule:exactly; line-height:125%; font-size:14px; text-align:center" align="center">Subscribe and view previous issues <a href="https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsN39GZCv3lYM-W6N1vHY6lZ3n3N11j1hWfvMVWW1lcm3F3rj-fPW2bX65G5Z1CZNW54-rhW358XrHW1k_ckK8j0f2sW4xVHvM1ZsK9TW4tXGPD2Y_l53W66gs085vTrnpW124pcN7XX6gDW447FC02nG2YCW6CZ4s_2f-GtHW6lZX7f7ch8XrW2HGvSq72f8DtW2zKH7r1cX1xdW8Hg-d36-Sl9ZW6qnbC_6ztPC9VRWnsw1dNdFRN4Bq56wHJHC9W4V6-HV7JMs7vW6gfJCg8wqZ6mVdkm9T10spMDF4Lphy-CV7rf33lP2R04" target="_blank" rel="noopener" style="color:#237b94" data-hs-link-id="1" data-hs-link-id-v2="E8V530aN">here</a>.</p>
+<p style="mso-line-height-rule:exactly; line-height:125%; font-size:14px; text-align:center" align="center">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:125%; font-size:14px; text-align:center" align="center">Thoughts, suggestions, feedback? Please send to <a href="mailto:thebatch@deeplearning.ai?subject=RE:%20Thoughts,%20Suggestions,%20feedback" target="_blank" rel="noopener" style="color:#237b94" data-hs-link-id="0" data-hs-link-id-v2="VCcUpJPM">thebatch@deeplearning.ai</a>. Avoid our newsletter ending up in your spam folder by adding our email address to your contacts list.</p>
+<p style="mso-line-height-rule:exactly; line-height:125%; font-size:14px; text-align:center" align="center">&nbsp;</p></div></div>
+<div id="hs_cos_wrapper_footer" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="presentation" class="hse-footer hse-secondary" width="100%" cellpadding="0" cellspacing="0" style="font-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496d; margin-bottom:0; padding:0">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="font-family:Helvetica, Arial, sans-serif; font-size:18px; color:#3b3b3b; word-break:break-word; text-align:center; margin-bottom:0; line-height:135%; padding:10px 20px">
+        <p style="font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:normal;text-decoration:none;font-style:normal;color:#3b3b3b">
+          DeepLearning.AI, 195 Page Mill Road, Suite 115, Palo Alto, CA 94306, United States
+        </p>
+        <p>
+          <a data-unsubscribe="true" href="https://info.deeplearning.ai/hs/preferences-center/en/direct?data=W2nXS-N30h-MdW1BqpwL3bp_xjW3_T-KX36j_GVW4fDXdB4hs2HYW2-g4GR1QbmTjW36FY142575B2W3b2sZF2WrH1wW2w1vBy3KcJRZW1QxHHv4mllTSW3b3PC124_6gPW41Vz8j2xWCTfW32hn3T3jsJXbW3Y1hm_1Bnp-pW38rZdl3bb0NjW2w63-z3DTxC9W3T1Hn130pT-GW3QLDJv4r7xCRW4mqTG-1_58QjW43HYkt3W2n9QW2PPDgP23h9SnW308zkq2vPck6W3ZM4vL1YZZQ7W36tLLC1VbTsHW1_7Fkt41V782W4fj28T3j8zqPW2p2yJp1VpF37W3SC01z1Q0RVyW41TRmt4hL4vDW2xHYZR2Kn_pgW36xJq92CtPP6W1_vsCT2xH4wNW2KPd2C1_l-YZW3SKdhx2vQ2-zW3jgq5Z2HyZwdW2-q0gT41yLfBW385dzM3jv33mW4fyjVy3jr-BCW34HSmg4hvF1jW1V1G6w34Fh4RW32xLQ63DVN8bW1-XCqh3F76W9W47y1_p4mFyK-W1S4NJ02YcVKPW2TStT33VMxknW25jFMD2YvSS6W43rjF732y51w0&amp;utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=369576782&amp;_hsenc=p2ANqtz--icY6iYBlwQOtxzU-xl3uZNMzPBSskAz5rVmPCL0-JbWp7VzjcgM9qD85_iR6jUTio0hY9qCeVBvNyzwghR5YQPv4EfA&amp;_hsmi=369582734" style="font-family:Helvetica,Arial,sans-serif; font-size:10px; color:#3b3b3b; font-weight:normal; text-decoration:underline; font-style:normal" data-hs-link-id="0" data-hs-link-id-v2="SFRZzEXk" target="_blank">Unsubscribe</a>
+          <a data-unsubscribe="true" href="https://info.deeplearning.ai/hs/preferences-center/en/page?data=W2nXS-N30h-MdW1BqpwL3bp_xjW3_T-KX36j_GVW4fDXdB4hs2HYW2-g4GR1QbmTjW36FY142575B2W3b2sZF2WrH1wW2w1vBy3KcJRZW1QxHHv4mllTSW3b3PC124_6gPW41Vz8j2xWCTfW32hn3T3jsJXbW3Y1hm_1Bnp-pW38rZdl3bb0NjW2w63-z3DTxC9W3T1Hn130pT-GW3QLDJv4r7xCRW4mqTG-1_58QjW43HYkt3W2n9QW2PPDgP23h9SnW308zkq2vPck6W3ZM4vL1YZZQ7W36tLLC1VbTsHW1_7Fkt41V782W4fj28T3j8zqPW2p2yJp1VpF37W3SC01z1Q0RVyW41TRmt4hL4vDW2xHYZR2Kn_pgW36xJq92CtPP6W1_vsCT2xH4wNW2KPd2C1_l-YZW3SKdhx2vQ2-zW3jgq5Z2HyZwdW2-q0gT41yLfBW385dzM3jv33mW4fyjVy3jr-BCW34HSmg4hvF1jW1V1G6w34Fh4RW32xLQ63DVN8bW1-XCqh3F76W9W47y1_p4mFyK-W1S4NJ02YcVKPW2TStT33VMxknW25jFMD2YvSS6W43rjF732y51w0&amp;utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=369576782&amp;_hsenc=p2ANqtz--icY6iYBlwQOtxzU-xl3uZNMzPBSskAz5rVmPCL0-JbWp7VzjcgM9qD85_iR6jUTio0hY9qCeVBvNyzwghR5YQPv4EfA&amp;_hsmi=369582734" style="font-family:Helvetica,Arial,sans-serif; font-size:10px; color:#3b3b3b; font-weight:normal; text-decoration:underline; font-style:normal" data-hs-link-id="0" data-hs-link-id-v2="qjPJqCop" target="_blank">Manage preferences</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+   
+      <!--[if gte mso 9]></td></tr></table><![endif]-->
+   
+  </div></div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+  
+<img src="https://info.deeplearning.ai/e3t/Cto/LX+113/cJhC404/MVGk8xjNVPWW5ymPK_7ScJ0yW87_Sgk5yyvKsW39GZmB3Cy50v122" alt="" width="1" height="1" border="0" style="display:none!important;min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important"></body></html>
+</html>
+</thebatch>
